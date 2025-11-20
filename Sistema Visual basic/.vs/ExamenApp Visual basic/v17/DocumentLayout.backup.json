@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|c:\\users\\agustin\\desktop\\archivos code\\examen\\examenapp visual basic\\examenapp visual basic\\formclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\formclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\formclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\formclientes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\formproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\formproductos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\formventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\formventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\acceso a datos\\clientedal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\acceso a datos\\clientedal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\formventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\formventas.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\acceso a datos\\acceso a datos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\acceso a datos\\acceso a datos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\negocio\\ventanegocio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\negocio\\ventanegocio.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\examenapp visual basic\\acceso a datos\\ventadal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9FCDDC36-D64D-4255-8987-8BFC9D417271}|ExamenApp Visual basic\\ExamenApp Visual basic.vbproj|solutionrelative:examenapp visual basic\\acceso a datos\\ventadal.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 288,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormClientes.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormClientes.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\FormClientes.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormClientes.vb [Design]",
+              "RelativeToolTip": "ExamenApp Visual basic\\FormClientes.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T02:53:43.662Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormProductos.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormProductos.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\FormProductos.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormProductos.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormProductos.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-11T19:11:16.03Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormVentas.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormVentas.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\FormVentas.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormVentas.vb [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormVentas.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-13T17:19:44.552Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormClientes.vb",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormClientes.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\FormClientes.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormClientes.vb",
+              "RelativeToolTip": "ExamenApp Visual basic\\FormClientes.vb",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAQwEEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-14T18:08:32.823Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Acceso a datos.vb",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\ACCESO A DATOS\\Acceso a datos.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\ACCESO A DATOS\\Acceso a datos.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\ACCESO A DATOS\\Acceso a datos.vb",
+              "RelativeToolTip": "ExamenApp Visual basic\\ACCESO A DATOS\\Acceso a datos.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T15:38:45.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteDAL.vb",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\ACCESO A DATOS\\ClienteDAL.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\ACCESO A DATOS\\ClienteDAL.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\ACCESO A DATOS\\ClienteDAL.vb",
+              "RelativeToolTip": "ExamenApp Visual basic\\ACCESO A DATOS\\ClienteDAL.vb",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwIkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T15:38:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentaNegocio.vb",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\NEGOCIO\\VentaNegocio.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\NEGOCIO\\VentaNegocio.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\NEGOCIO\\VentaNegocio.vb",
+              "RelativeToolTip": "ExamenApp Visual basic\\NEGOCIO\\VentaNegocio.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-15T02:22:16.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormVentas.vb",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormVentas.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\FormVentas.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\FormVentas.vb",
+              "RelativeToolTip": "ExamenApp Visual basic\\FormVentas.vb",
+              "ViewState": "AgIAAAABAAAAAAAAAAAUwDMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-14T18:47:00.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\Form1.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\Form1.vb",
+              "ToolTip": "D:\\repo visual\\ExamenApp Visual basic\\ExamenApp Visual basic\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-14T22:43:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentaDAL.vb",
+              "DocumentMoniker": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\ACCESO A DATOS\\VentaDAL.vb",
+              "RelativeDocumentMoniker": "ExamenApp Visual basic\\ACCESO A DATOS\\VentaDAL.vb",
+              "ToolTip": "C:\\Users\\Agustin\\Desktop\\archivos CODE\\Examen\\ExamenApp Visual basic\\ExamenApp Visual basic\\ACCESO A DATOS\\VentaDAL.vb",
+              "RelativeToolTip": "ExamenApp Visual basic\\ACCESO A DATOS\\VentaDAL.vb",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA0wF8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-14T22:33:05.984Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 89,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\bin\Debug\ExamenApp Visual basic.exe.config
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\bin\Debug\ExamenApp Visual basic.exe
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\bin\Debug\ExamenApp Visual basic.pdb
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\bin\Debug\ExamenApp Visual basic.xml
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp Visual basic.vbproj.AssemblyReference.cache
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp_Visual_basic.Form1.resources
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp_Visual_basic.Resources.resources
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp Visual basic.vbproj.GenerateResource.cache
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp Visual basic.vbproj.CoreCompileInputs.cache
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp Visual basic.exe
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp Visual basic.xml
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp Visual basic.pdb
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp Visual basic.exe.config
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp_Visual_basic.FormClientes.resources
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp_Visual_basic.FormProductos.resources
+D:\repo visual\ExamenApp Visual basic\ExamenApp Visual basic\obj\Debug\ExamenApp_Visual_basic.FormVentas.resources
